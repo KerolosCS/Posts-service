@@ -2,6 +2,12 @@
 
 Simple event-driven posts service built with Node.js, Express, MongoDB, Kafka, and Docker.
 
+## Postman Collection
+
+Test all API endpoints using the public Postman collection:
+
+[Posts Service API Collection](https://www.postman.com/bold-shadow-830151/workspace/posts/collection/28556199-16f3b165-1105-443a-9406-80091e2f5690?action=share&creator=28556199)
+
 ## Short Explanation
 
 The API creates and reads posts.
